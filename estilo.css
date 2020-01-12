@@ -29,6 +29,9 @@
 #cards {
     margin-top: 15px;
 }
+.card-text {
+    font-size: small;
+}
 
 footer {
     margin-top: 0px;

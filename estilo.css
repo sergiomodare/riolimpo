@@ -1,0 +1,35 @@
+#titulo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(cityscape.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    text-shadow: 3px 3px 5px seagreen;
+}
+#esporro {
+     margin: auto;
+}
+
+#menu {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.centro {
+    margin: 10px 0px 20px 0px;
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 2px yellow;
+}
+
+#cards {
+    margin-top: 15px;
+}
+
+footer {
+    margin-top: 0px;
+}

@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-position: center center;
 }
+
 #titulo {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -16,8 +17,9 @@ body {
     color: white;
     text-shadow: 3px 3px 5px seagreen;
 }
+
 #esporro {
-     margin: auto;
+    margin: auto;
 }
 
 #menu {
@@ -35,8 +37,13 @@ body {
 #cards {
     margin-top: 15px;
 }
+
 .card-text {
     font-size: small;
+}
+
+.card {
+    min-height: 520px;
 }
 
 footer {

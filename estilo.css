@@ -1,3 +1,10 @@
+body {
+    background-image: url(imagens/backclean.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 #titulo {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -10,25 +17,32 @@
     color: white;
     text-shadow: 3px 3px 5px seagreen;
 }
+
 #esporro {
-     margin: auto;
+    margin: auto;
 }
+
 #menu {
     margin-top: 0px;
     margin-bottom: 5px;
 }
+
 .centro {
     margin: 10px 0px 20px 0px;
     text-align: center;
     color: red;
     text-shadow: 2px 2px 2px yellow;
 }
+
 #cards {
     margin-top: 15px;
 }
-.card-text {
-    font-size: small;
+
+.card {
+    min-height: 520px;
+    
 }
+
 footer {
     margin-top: 0px;
 }

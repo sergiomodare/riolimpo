@@ -41,6 +41,10 @@ body {
 .card-text {
     font-size: small;
 }
+.card {
+    min-height: 520px;
+    
+}
 
 .card {
     min-height: 530px;

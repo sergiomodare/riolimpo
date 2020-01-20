@@ -38,16 +38,11 @@ body {
     margin-top: 15px;
 }
 
-.card-text {
-    font-size: small;
-}
 .card {
-    min-height: 520px;
-    
+    min-height: 560px;
 }
-
-.card {
-    min-height: 530px;
+.card-text{
+    text-align: justify;
 }
 
 footer {

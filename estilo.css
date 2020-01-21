@@ -41,6 +41,9 @@ body {
 .card {
     min-height: 500px;
 }
+.card-body{
+    background-color: #DCF5FA;
+}
 
 .card-text {
     text-align: justify;

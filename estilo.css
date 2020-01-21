@@ -39,9 +39,10 @@ body {
 }
 
 .card {
-    min-height: 560px;
+    min-height: 500px;
 }
-.card-text{
+
+.card-text {
     text-align: justify;
 }
 

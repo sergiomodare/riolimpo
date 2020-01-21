@@ -41,7 +41,8 @@ body {
 .card {
     min-height: 500px;
 }
-.card-body{
+
+.card-body {
     background-color: #DCF5FA;
 }
 
